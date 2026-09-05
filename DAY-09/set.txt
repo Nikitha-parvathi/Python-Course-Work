@@ -1,0 +1,196 @@
+what is set?
+A set is an unordered, mutable collection used to store unique values. Sets are created using set() function. 
+Sets automatically remove duplicate values. 
+SET PROPERTIES 
+Unordered 
+Elements do not maintain insertion order
+Mutable 
+Elements can be added and removed 
+Unindexed 
+Elements cannot be accessed using index positions
+Iterable 
+Can iterate through elements using loops
+Unique Elements 
+Duplicate values are automatically removed
+Heterogeneous 
+Heterogeneous 
+Set with Duplicate Values 
+Duplicates are removed automatically. 
+SET OPERATIONS 
+1. Membership Operators 
+Checks whether an element exists. 
+2. Union 
+Combines all unique elements from both sets. 
+3. Intersection 
+Returns common elements. 
+4. Difference 
+Returns elements present in the first set but not second. 
+5. Symmetric Difference 
+Returns elements present in either set but not both. 
+6. Subset 
+Checks whether all elements of one set exist in another. 
+7. Superset 
+Checks whether a set contains all elements of another set. 
+BUILT-IN SET FUNCTIONS 
+len() 
+Returns number of elements 
+max() 
+Returns largest element 
+min() 
+Returns smallest element 
+sum() 
+Returns sum of numeric elements 
+sorted() 
+Returns sorted list 
+set() 
+Converts iterable to set 
+any() 
+Returns True if any element is True 
+SET METHODS 
+add() Adds one element s.add(10) 
+update() Adds multiple elements s.update([20,30])
+remove() 
+Removes element, error if absent 
+discard() 
+Removes element, no error if absent 
+pop() 
+Removes a random element 
+clear() 
+Removes all elements 
+copy() 
+Creates shallow copy 
+union() 
+Combines sets 
+intersection() 
+Common elements 
+difference() 
+Elements in first only 
+symmetric_difference() 
+Non-common elements 
+issubset() 
+Checks subset 
+issuperset() 
+Checks superset 
+isdisjoint() 
+Checks no common elements 
+what is FROZENSET 
+A frozenset is an immutable version of a set. 
+Once created, elements cannot be added or removed. 
+Properties of frozenset: 
+● Immutable 
+● Unordered 
+● Unique Elements 
+● Hashable 
+● Can be used inside sets and as dictionary keys 
+WHY USE SETS? 
+● Remove duplicate values 
+● Perform mathematical set operations 
+● Fast membership checking 
+● Store unique items 
+● Compare collections efficiently 
+what is DICTIONARIES 
+A dictionary is a collection of key-value pairs used to store related data. 
+Dictionaries are created using curly braces { } or the dict() function
+DICTIONARY PROPERTIES
+Ordered 
+Maintains insertion order 
+Mutable 
+Items can be added, removed, and modified
+Indexed by Keys 
+Values are accessed using keys, not numeric indexes
+Iterable 
+Can iterate through keys, values, and items
+Unique Keys 
+Duplicate keys are not allowed
+Duplicate Values Allowed 
+Multiple keys can have the same value
+Heterogeneous 
+Dynamic Size 
+Nested Structures Supported 
+Can store different datatypes 
+Can grow or shrink during execution 
+Can contain lists, tuples, sets, dictionaries, etc.
+DICTIONARY OPERATIONS
+1. Accessing Values 
+Values are accessed using keys.
+2. Updating Values 
+3. Adding New Key-Value Pairs 
+4. Removing Items 
+5. Membership Operators 
+Membership checks only keys. 
+BUILT-IN DICTIONARY FUNCTIONS 
+len() 
+Returns number of key-value pairs 
+max() 
+Returns maximum key 
+min() 
+Returns minimum key 
+sorted() 
+Returns sorted list of keys 
+dict() 
+Creates dictionary 
+any() 
+Returns True if any key is True 
+all() 
+Returns True if all keys are True 
+DICTIONARY METHODS 
+get() 
+Returns value for key 
+keys() 
+Returns all keys 
+values() 
+Returns all values 
+items() 
+Returns key-value pairs 
+update() 
+Updates dictionary 
+setdefault() 
+Returns value; creates key if absent 
+pop() 
+Removes specified key 
+popitem() 
+Removes last inserted item 
+clear() 
+Removes all items 
+copy() 
+Creates shallow copy 
+fromkeys() 
+Creates dictionary from keys 
+NESTED DICTIONARIES 
+A dictionary inside another dictionary is called a nested dictionary. 
+MUTABLE VALUES INSIDE DICTIONARIES 
+Dictionary values can be mutable objects. 
+VALID DICTIONARY KEYS 
+Allowed Keys 
+WHY USE DICTIONARIES? 
+● Store related information together 
+● Fast data retrieval using keys 
+● Represent real-world objects 
+● Flexible data structures 
+● Commonly used in APIs, JSON, databases, and applications 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
