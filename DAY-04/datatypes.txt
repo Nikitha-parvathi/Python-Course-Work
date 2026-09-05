@@ -1,0 +1,44 @@
+What is a Set?
+A set is a built-in Python data type used to store unique elements.
+Does not allow duplicate values
+Mutable (elements can be added or removed)
+Unordered (items do not have a fixed position)
+Represented using curly braces {}
+Set elements must be immutable (e.g., int, float, string, tuple)
+ what is Empty Set
+Many beginners make this mistake
+What is a Dictionary?
+A dictionary stores data in the form of key-value pairs.
+Each key is associated with a value.
+ what are Dictionary Properties
+Ordered (Python 3.7+)
+Mutable
+Keys must be unique
+Values may be duplicated
+Represented using {}
+how to use Using get() Method
+The get() method safely returns the value if the key exists.
+What is Boolean?
+Boolean data type represents only two values.
+True
+False
+What is None?
+None represents the absence of a value or no value.
+It is the only value of the NoneType data type.
+What is Type Casting?
+Type casting is the process of converting one data type into another.
+Types of Type Casting
+Implicit Type Casting
+Explicit Type Casting
+what is Implicit Type Casting (Automatic)
+Python automatically converts a smaller compatible type into a larger compatible type during an operation
+ what is Explicit Type Casting (Manual)
+The programmer converts the data type using built-in functions.
+Common conversion functions.
+what is Type Conversion (Type Casting) 
+Type conversion in Python refers to converting the value of one data type to another using built-in functions such as int(), float(), str(), bool(), list(), tuple(), set(), and dict(). 
+Each section below explores conversions from a specific data type to others, with examples and error cases. 
+
+
+
+
