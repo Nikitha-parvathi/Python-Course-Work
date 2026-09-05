@@ -1,0 +1,18 @@
+What are comments in Python?
+Comments are used to explain code and make it easier to understand. Python ignores comments during execution.
+What are the types of comments in Python?
+Single-line comments
+Multi-line comments
+What are numeric data types in Python?
+Python has three built-in numeric data types:
+int:Stores whole numbers.
+float:Stores decimal numbers.
+complex:Stores numbers with a real and imaginary part.
+What is a string?
+A string is a sequence of characters enclosed in single quotes (' '), double quotes (" "), or triple quotes (''' ''' / """ """).
+What is a list?
+A list is an ordered, mutable collection that can store different data types.
+What is a tuple?
+A tuple is an ordered, immutable collection of items.
+What is range()?
+The range() function generates a sequence of numbers.
