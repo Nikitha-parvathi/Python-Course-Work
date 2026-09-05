@@ -1,0 +1,32 @@
+Advantages of Python?
+Python supports Procedural Programming (POP) and Object-Oriented Programming (OOP).
+Python has a simple and easy-to-understand syntax.
+Python provides a Graphical User Interface (GUI) through libraries such as Tkinter.
+Python is used to develop applications for mobile devices, web applications, desktop software, AI, and data science.
+Python executes code line by line, making debugging easier
+Disadvantages of Python
+Python is slower than compiled languages like C and C++ because it is an interpreted language.
+Python is dynamically typed, so type checking happens at runtime, which can affect performance.
+It consumes more memory compared to some other programming languages.
+It is not the best choice for mobile application development.
+ what  is Tokens?
+ Tokens are the smallest building blocks (smallest individual units) of a Python program.
+Everything written in a Python program, such as keywords, identifiers, literals, operators, and delimiters, is made up of tokens.
+Types of Tokens
+Keywords
+Identifiers
+Literals
+Operators
+Punctuators (Delimiters)
+what is keyword?
+Keywords are reserved words in Python that have a predefined meaning. They cannot be used as variable names
+what is identifiers?
+An identifier is the name given to variables, functions, classes, or objects
+what is literals?
+Literals are fixed values written directly in a Python program.
+what is operators?
+Operators are symbols used to perform operations on data.
+what is Punctuators?
+punctuators are special symbols used to separate, group, or organize elements in a Python program
+what is statement?
+A statement is an instruction that Python executes
