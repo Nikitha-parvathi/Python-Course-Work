@@ -1,0 +1,23 @@
+What are Operators?
+An operator is a symbol or keyword that performs an operation on one or more operands (values or variables).
+Types of Operators in Python
+Python provides the following types of operators.
+Operator Type
+Purpose
+Arithmetic
+Mathematical calculations
+Assignment
+Assigning or updating values
+Comparison (Relational)
+Comparing values
+Logical
+Combining conditions
+Bitwise
+Operations on binary numbers
+Membership
+Checking whether an item exists
+Identity
+Checking whether two variables refer to the same object
+Conditional (Ternary)
+
+
