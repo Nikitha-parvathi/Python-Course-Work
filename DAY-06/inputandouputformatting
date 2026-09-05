@@ -1,0 +1,44 @@
+what are Input Formatting 
+Python's input() function is used to take input from the user during program execution. By default, it returns a string. We often convert the input into int, float, list, tuple, set, or dict as needed. 
+ String Input 
+Use case: Entering a name, email, city, etc.
+ what is Integer Input 
+Use case: Age, quantity, mobile number, number of items in cart
+what is Float Input 
+Use case: Price, temperature, discount, rating. 
+what are input as List (Space-separated) 
+Use case: List of names, marks, or product IDs. 
+what are Input as List (Comma-separated) 
+Use case: Tags, emails, product categories
+what are List of Integers 
+Use case: Marks, product prices, IDs.
+what are List of Floats 
+Use case: Sensor readings, weights, product prices. 
+what are Tuple Input 
+Use case: Coordinates, dimensions (length, width, height). 
+what are Set Input 
+Use case: Selected image IDs where duplicates must be removed (e.g., in a photo-sharing app). 
+ what is Dictionary Input using eval() 
+Use case: When entering structured data like configuration settings or user profiles
+Understanding the print() Function in Python 
+Before diving into output formatting, it's important to understand the basics of the print() function, which is used to display information on the screen. 
+What is print()? 
+The print() function in Python outputs text, numbers, or any other data type to the console. It's one of the first functions every Python programmer learns. 
+what are Understanding the print() Function in Python 
+Before diving into output formatting, it's important to understand the basics of the print() function, which is used to display information on the screen. 
+what are Using  of Modulo Operator (% Formatting) 
+This is an older method, similar to C-style formatting. 
+You use % followed by format specifiers like %s (string), %d (integer), %f (float), etc. 
+what are Using of  f-strings (Formatted String Literals)
+This is the most modern and recommended method. 
+Add an f before the string and use curly braces {} to insert variables directly. 
+what are Using of  str.format() Method 
+This method works in both Python 2 and 3. 
+You use {} as placeholders and call .format() with the variables you want to insert. 
+
+
+
+
+
+
+
