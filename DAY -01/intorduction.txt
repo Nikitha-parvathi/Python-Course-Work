@@ -1,0 +1,42 @@
+What is programming?
+Programming is the process of writing instructions that tell a computer what to do.
+A computer cannot understand human language directly.
+It understands only machine language (0s and 1s).
+Programming languages (like Python, Java, C) act as a bridge between humans and computers.
+A collection of instructions written to perform a task is called a program
+what is a programming langauage?
+A Programming Language is a language used to communicate with a computer and create software or applications.
+Types of programming languages?
+A Programming Paradigm is a style or way of writing programs.
+The two main paradigms are:
+Procedural Programming (POP)
+Object-Oriented Programming (OOP)
+what is python?
+Python is a high-level, interpreted, general-purpose programming language created by Guido van Rossum. It was first released in 1991.
+why is python a general purpose programming langauage?
+A general-purpose language can be used to build many types of applications.
+feature of python?
+Simple
+Python has easy-to-read syntax.Easy to understand even for beginners.
+interpreted
+python executes code line by line.
+cross platform
+Python programs run on different operating systems without major changes.
+Highlevel langauage
+Python hides complex hardware details from programmers.You don't need to manage memory manually like in C.
+oops
+This helps in creating reusable and organized code.
+large standard libaray
+Python comes with many built-in modules.These libraries save development time
+extesible
+Python can work together with other languages like:
+C
+C++
+This improves performance when needed.
+Applications of python
+Desktop Applications
+Web Applications
+Data Science
+Artificial Intelligence & Machine Learning
+Automation
+Operating System Utilities
