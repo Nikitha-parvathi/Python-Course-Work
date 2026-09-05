@@ -1,0 +1,17 @@
+what is string?
+A string is a sequence of characters enclosed within single quotes (' '), double quotes (" "), or triple quotes (''' ''' or """ """). 
+Strings are immutable, meaning once created, they cannot be changed.
+Operations on Strings 
+1. Concatenation (+) - Joining two or more strings. 
+2. Repetition (*) - Repeating a string multiple times. 
+3. Indexing - Accessing individual characters using indices. 
+4. Slicing - Extracting a part (substring) of the string. 
+5. Membership (in, not in) - Checking if a substring exists within a string.
+Built-in String Functions 
+While string methods are called on string objects, Python also provides some built-in functions that work with strings: 
+1. len() - Returns the length of the string. 
+2. max() / min() - Returns the maximum or minimum character (based on ASCII values). 
+3. sorted() - Returns a sorted list of characters. 
+4. chr() / ord() - Converts between characters and their ASCII codes.
+
+
