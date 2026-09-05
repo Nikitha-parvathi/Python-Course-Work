@@ -1,0 +1,86 @@
+what is Lists 
+A list is an ordered, mutable collection used to store multiple values in a single variable. Lists are created using: [] or list()
+LIST OPERATIONS 
+1. Concatenation (+) 
+Used to join lists. 
+2. Repetition (*) 
+Used to repeat list elements.
+3. Indexing 
+Used to access elements using index positions.
+4. Slicing 
+Used to extract part of a list. 
+ 5.Membership Operators 
+Checks whether an element exists. 
+LIST METHODS 
+List methods are predefined functions used to perform operations on lists. 
+Methods
+1.append()add single element at end
+2.extend()adds multiple elements
+3.insert()inserts element at position
+4.remove() removes first occurance
+5.pop() removes element using index
+6.clear()removes all element
+7.del()deletes list or element
+8. index() returns element index
+9.count()counts occurances
+10.sort() sorts orignal list
+11. reverse()reverse list
+12.sorted()returns sorted new list
+13.copy()creates shallow copy
+what are NESTED LISTS 
+A list inside another list is called a nested list. 
+what is A tuple is an ordered, immutable collection used to store multiple values in a single variable. Tuples are created using parentheses ( ) or tuple() 
+TUPLE OPERATIONS 
+1. Concatenation (+) 
+Used to join tuples. 
+2. Repetition (*) 
+Used to repeat tuple elements. 
+3. Indexing 
+Used to access elements using index positions. 
+4. Slicing 
+Used to extract part of a tuple. 
+5. Membership Operators 
+Checks whether an element exists.
+BUILT-IN TUPLE FUNCTIONS
+len() 
+Returns tuple length 
+max() 
+Returns largest element 
+min() 
+Returns smallest element 
+sum() 
+Returns sum of numeric elements 
+sorted() 
+Returns sorted list 
+tuple() 
+Converts iterable to tuple 
+any() 
+Returns True if at least one value is True 
+all() 
+Returns True if all values are True 
+methods
+count() 
+Counts occurrences of an element 
+index() 
+Returns first occurrence index 
+what is TUPLE PACKING 
+Storing multiple values into a tuple automatically. 
+what is TUPLE UNPACKING 
+Extracting tuple elements into variables. 
+what is NESTED TUPLES 
+A tuple inside another tuple is called a nested tuple
+IMMUTABILITY OF TUPLES Tuple elements cannot be modified. 
+what are the MUTABLE OBJECTS INSIDE TUPLES 
+Although tuples are immutable, mutable objects stored inside them can still be modified. 
+WHY USE TUPLES? 
+● Data should not be modified. 
+● Better memory efficiency. 
+● Faster than lists. 
+● Useful for fixed collections of values. 
+● Commonly used for coordinates, dimensions, and database records. ● Supports packing and unpacking. 
+
+
+
+
+
+
