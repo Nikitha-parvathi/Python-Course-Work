@@ -1,0 +1,54 @@
+what is Control Statements 
+Normally, Python executes statements one after another from top to bottom. Control statements allow the program to make decisions, repeat tasks, or alter the normal flow of execution based on specific conditions. 
+Control statements help the program decide: 
+● Which code should execute 
+● When code should execute 
+● How many times code should execute 
+● Whether execution should continue, stop, or skip 
+Types of Control Statements 
+Conditional Statements 
+Execute code based on conditions
+Looping Statements 
+Execute code repeatedly
+Jump Statements 
+Alter the normal flow of loops
+Why Control Statements Are Important 
+Control statements help programs: 
+● Make decisions 
+● Repeat tasks efficiently 
+● Avoid unnecessary code repetition 
+● Handle different situations dynamically 
+● Control program execution flow 
+Without control statements, programs would execute sequentially and could not respond intelligently to different inputs or situations.
+what is Conditional Statements 
+Conditional statements are decision-making statements that execute different blocks of code depending on whether a specified condition evaluates to True or False. 
+They allow programs to make decisions and perform different actions based on different situations. 
+Examples: 
+● Checking stock availability 
+● Validating login credentials 
+● Determining grades 
+● Checking voting eligibility 
+Types of Conditional Statements 
+if 
+Executes code when a condition is True
+if-else 
+Executes one block if True and another block if False
+if-elif-else 
+Checks multiple conditions
+Nested if 
+Places one conditional statement inside another
+1.if statement
+The if statement is the simplest conditional statement. It executes a block of code only when the specified condition evaluates to True. If the condition is False, the block is skipped. 
+ 2.if-else Statement
+ The if-else statement provides two possible execution paths. 
+One block executes when the condition is True and another block executes when the condition is False. 
+3.if-elif-else Statement
+The if-elif-else statement is used when multiple conditions need to be checked. Python evaluates conditions from top to bottom. 
+As soon as a condition becomes True, its corresponding block executes and the remaining conditions are skipped. 
+ 4.Nested if Statement
+ A Nested if is an if statement placed inside another if or else block. The inner condition is evaluated only when the outer condition is satisfied. Nested if statements are useful when multiple levels of validation are required. 
+
+
+ 
+
+
